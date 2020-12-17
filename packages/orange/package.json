@@ -1,0 +1,28 @@
+{
+  "name": "@tpham0/orange",
+  "version": "0.0.0",
+  "description": "Orange package",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "directory": "packages/orange"
+  },
+  "scripts": {
+    "start": "tsdx watch --tsconfig tsconfig.build.json --verbose --noClean",
+    "build": "tsdx build --tsconfig tsconfig.build.json",
+    "prepublish": "yarn build"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "README.md",
+    "dist"
+  ],
+  "dependencies": {
+    "@tpham0/apple": "^0.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

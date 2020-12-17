@@ -1,0 +1,19 @@
+{
+  "name": "monorepo-semantic-release-demo",
+  "private": true,
+  "version": "semantic-release-0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lerna": "lerna",
+    "clean": "lerna clean",
+    "build": "lerna run build"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1",
+    "tsdx": "^0.14.1"
+  }
+}

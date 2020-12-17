@@ -1,0 +1,13 @@
+{
+  "registry": "https://registry.npmjs.org/",
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": ["packages/*", "docs"],
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "message": "release: publish %s"
+    }
+  }
+}
