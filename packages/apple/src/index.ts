@@ -13,3 +13,7 @@ export function minus(a: number, b: number) {
 export function times(a: number, b: number) {
   return a * b;
 }
+
+export function divide(a: number, b: number) {
+  return a / b;
+}
