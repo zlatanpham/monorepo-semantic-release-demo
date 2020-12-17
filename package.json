@@ -12,7 +12,7 @@
     "release": "lerna publish",
     "release:alpha": "lerna publish --canary --preid alpha",
     "release:next": "lerna publish --canary --preid next",
-    "semantic-release": "lerna exec --concurrency 1 \"npx --no-install semantic-release -e semantic-release-monorepo\""
+    "semantic-release": "lerna exec --concurrency 1 -- semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}-v\\${version}'"
   },
   "workspaces": [
     "packages/*"
