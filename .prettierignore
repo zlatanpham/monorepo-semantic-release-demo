@@ -1,0 +1,20 @@
+build/
+dist/
+coverage/
+__snapshots__/
+node_modules/
+package-lock.json
+yarn.lock
+package.json
+.cache/
+# media
+*.woff
+*.sh
+*.DS_Store
+*.svg
+*.png
+*.ico
+*.pdf
+*.log
+*.jpg
+*.jpeg
