@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/orange-v1.3.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v1.2.0...@tpham0/orange-v1.3.0) (2020-12-17)
+
+
+### Features
+
+* **apple:** add log6 ([#5](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/5)) ([8e1b0c9](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/8e1b0c944bf9694e29669bdc25fe35bca4059c8e))
+
 # [@tpham0/orange-v1.2.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v1.1.0...@tpham0/orange-v1.2.0) (2020-12-17)
 
 
