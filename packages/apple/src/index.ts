@@ -24,4 +24,5 @@ export function log(message: string) {
 
 export function log2(message: string) {
   console.log(message);
+  console.log(message);
 }
