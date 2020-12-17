@@ -7,7 +7,7 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "message": "release: publish %s"
+      "message": "chore(release): bump version"
     }
   }
 }
