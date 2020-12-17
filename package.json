@@ -12,7 +12,7 @@
     "release": "lerna publish",
     "release:alpha": "lerna publish --canary --preid alpha",
     "release:next": "lerna publish --canary --preid next",
-    "semantic-release": "lerna exec --concurrency 1 -- semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}-v\\${version}'"
+    "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}@${version}' --debug"
   },
   "workspaces": [
     "packages/*"
@@ -42,6 +42,8 @@
     "prettier": "^2.2.1",
     "semantic-release": "^17.3.0",
     "semantic-release-monorepo": "^7.0.3",
+    "semantic-release-monorepo-hooks": "^2.9.7",
+    "semantic-release-plugin-decorators": "^3.0.0",
     "tsdx": "^0.14.1"
   },
   "lint-staged": {

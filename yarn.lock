@@ -5098,6 +5098,11 @@ find-config@0.3.0:
   dependencies:
     user-home "^1.1.1"
 
+find-git-root@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/find-git-root/-/find-git-root-1.0.4.tgz#8bc1e0897db783e06762bf050b0943288e5399fd"
+  integrity sha512-468fmirKKgcrqfZfPn0xIpwZUUsZQcYXfx0RC2/jX39GPz83TwutQNZZhDrI6HqjO8cRejxQVaUY8GQdXopFfA==
+
 find-node-modules@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/find-node-modules/-/find-node-modules-2.0.0.tgz#5db1fb9e668a3d451db3d618cd167cdd59e41b69"
@@ -9989,6 +9994,16 @@ saxes@^3.1.9:
   integrity sha512-Ydydq3zC+WYDJK1+gRxRapLIED9PWeSuuS41wqyoRmzvhhh9nc+QQrVMKJYzJFULazeGhzSV0QleN2wD3boh2g==
   dependencies:
     xmlchars "^2.1.1"
+
+semantic-release-monorepo-hooks@^2.9.7:
+  version "2.9.7"
+  resolved "https://registry.yarnpkg.com/semantic-release-monorepo-hooks/-/semantic-release-monorepo-hooks-2.9.7.tgz#e64d9494e5b371178e6d3b4f3be96f2741db8f22"
+  integrity sha512-othQvUb0rkqZ7w6xAwZVc+LGqlU2ETfaBErPeAZhwd+n8n3mz0oTiRyXx62o2h/tZcZa0NO87XegaGS5lHJhNA==
+  dependencies:
+    find-git-root "^1.0.4"
+    lodash "^4.17.20"
+    read-pkg "^5.2.0"
+    semver "^7.3.2"
 
 semantic-release-monorepo@^7.0.3:
   version "7.0.3"
