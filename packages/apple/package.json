@@ -1,6 +1,6 @@
 {
   "name": "@tpham0/apple",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "apple package",
   "sideEffects": false,
   "repository": {
@@ -19,7 +19,6 @@
     "README.md",
     "dist"
   ],
-  "dependencies": {},
   "publishConfig": {
     "access": "public"
   }
