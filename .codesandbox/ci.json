@@ -1,0 +1,4 @@
+{
+  "packages": ["packages/orange", "packages/apple"],
+  "sandboxes": ["new", "vanilla"]
+}
