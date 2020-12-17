@@ -34,6 +34,8 @@
     "lerna": "^3.22.1",
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1",
+    "semantic-release": "^17.3.0",
+    "semantic-release-monorepo": "^7.0.3",
     "tsdx": "^0.14.1"
   },
   "lint-staged": {
