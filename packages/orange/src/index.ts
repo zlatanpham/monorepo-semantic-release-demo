@@ -11,3 +11,7 @@ export function sum(list: number[]) {
 export function log3(message: string) {
   console.log(message);
 }
+
+export function log6() {
+  console.log('log6');
+}
