@@ -1,7 +1,7 @@
 {
   "name": "monorepo-semantic-release-demo",
   "private": true,
-  "version": "semantic-release-0.0.0",
+  "version": "0.0.0-development",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -11,7 +11,8 @@
     "commit": "cz",
     "release": "lerna publish",
     "release:alpha": "lerna publish --canary --preid alpha",
-    "release:next": "lerna publish --canary --preid next"
+    "release:next": "lerna publish --canary --preid next",
+    "semantic-release": "semantic-release"
   },
   "workspaces": [
     "packages/*"
@@ -32,6 +33,7 @@
     "lerna": "^3.22.1",
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1",
+    "semantic-release": "^17.3.0",
     "tsdx": "^0.14.1"
   },
   "lint-staged": {
@@ -44,5 +46,9 @@
     "commitizen": {
       "path": "./node_modules/cz-lerna-changelog"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zlatanpham/monorepo-semantic-release-demo.git"
   }
 }
