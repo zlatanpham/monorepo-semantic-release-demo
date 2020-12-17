@@ -10,7 +10,8 @@
     "build": "lerna run build",
     "commit": "cz",
     "release": "lerna publish",
-    "release:alpha": "lerna publish from-package --dist-tag alpha --force-publish --yes"
+    "release:alpha": "lerna publish --canary --preid alpha",
+    "release:next": "lerna publish --canary --preid next"
   },
   "workspaces": [
     "packages/*"
