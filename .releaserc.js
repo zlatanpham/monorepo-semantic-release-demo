@@ -8,7 +8,7 @@
  */
 
 module.exports = {
-  branch: 'master',
+  branches: ['+([0-9])?(.{+([0-9]),x}).x', 'master', 'next'],
   // tagFormat: 'v${version}',
   monorepo: {
     analyzeCommits: ['@semantic-release/commit-analyzer'],
