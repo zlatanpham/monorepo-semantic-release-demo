@@ -8,7 +8,8 @@
     "lerna": "lerna",
     "clean": "lerna clean",
     "build": "lerna run build",
-    "commit": "cz"
+    "commit": "cz",
+    "release": "lerna publish"
   },
   "workspaces": [
     "packages/*"
