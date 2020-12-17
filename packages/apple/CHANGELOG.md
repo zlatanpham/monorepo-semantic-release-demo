@@ -1,5 +1,6 @@
 # CHANGELOG
 
+<<<<<<< HEAD
 # [@tpham0/apple-v1.4.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.1...@tpham0/apple-v1.4.0) (2020-12-18)
 
 
@@ -8,12 +9,23 @@
 * **apple:** add log 7 ([6b50eac](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6b50eacbae2a9d2b1758a0dc763f1554c97b01cc))
 * **apple:** add log 7 ([#6](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/6)) ([ee41e0c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ee41e0ca2afb16a27f86145f76e75d5cb14d702d))
 
+=======
+<<<<<<< HEAD
+>>>>>>> chore(release): @tpham0/apple-v1.4.0 [skip ci]
 # [@tpham0/apple-v1.3.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.0...@tpham0/apple-v1.3.1) (2020-12-18)
 
 
 ### Bug Fixes
 
 * **apple:** remove log2() ([ce8be03](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ce8be0385079073cd82b102c9729ff8319f6a15f))
+=======
+# [@tpham0/apple-v1.4.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.0...@tpham0/apple-v1.4.0) (2020-12-17)
+
+
+### Features
+
+* **apple:** add log5() ([f321ad5](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/f321ad5681fa173953d7ea0c1db83e53c25a3a52))
+>>>>>>> chore(release): @tpham0/apple-v1.4.0 [skip ci]
 
 # [@tpham0/apple-v1.2.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.2.0...@tpham0/apple-v1.2.1) (2020-12-17)
 
