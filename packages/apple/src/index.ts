@@ -17,7 +17,3 @@ export function times(a: number, b: number) {
 export function divide(a: number, b: number) {
   return a / b;
 }
-
-export function log(message: string) {
-  console.log(message);
-}
