@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/orange-v1.2.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v1.1.0...@tpham0/orange-v1.2.0) (2020-12-17)
+
+
+### Features
+
+* **orange:** upgrade deps ([ac36a77](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ac36a776e1b70f53842cea8e6765d23e436e54ff))
+
 # [@tpham0/orange-v1.1.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v1.0.0...@tpham0/orange-v1.1.0) (2020-12-17)
 
 
