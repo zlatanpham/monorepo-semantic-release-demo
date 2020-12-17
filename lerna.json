@@ -3,7 +3,7 @@
   "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "packages": ["packages/*", "docs"],
+  "packages": ["packages/*"],
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
