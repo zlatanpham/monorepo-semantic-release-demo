@@ -4,10 +4,14 @@
   "npmClient": "yarn",
   "useWorkspaces": true,
   "packages": ["packages/*", "docs"],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "command": {
     "publish": {
-      "conventionalCommits": true,
-      "message": "chore(release): bump version"
+      "message": "chore(release): releasing packages",
+      "conventionalCommits": true
     }
   }
 }
