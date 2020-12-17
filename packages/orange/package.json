@@ -20,7 +20,7 @@
     "dist"
   ],
   "dependencies": {
-    "@tpham0/apple": "^0.1.0"
+    "@tpham0/apple": "^1.2.1"
   },
   "publishConfig": {
     "access": "public"
