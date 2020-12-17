@@ -12,7 +12,7 @@
     "release": "lerna publish",
     "release:alpha": "lerna publish --canary --preid alpha",
     "release:next": "lerna publish --canary --preid next",
-    "semantic-release": "lerna exec --concurrency 1 \"npx --no-install semantic-release -e semantic-release-monorepo\""
+    "semantic-release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo"
   },
   "workspaces": [
     "packages/*"
@@ -26,13 +26,7 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/commit-analyzer": "^8.0.1",
-    "@semantic-release/exec": "^5.0.0",
-    "@semantic-release/git": "^9.0.0",
     "@semantic-release/github": "^7.2.0",
-    "@semantic-release/npm": "^7.0.9",
-    "@semantic-release/release-notes-generator": "^9.0.1",
     "commitizen": "^4.2.2",
     "cz-conventional-changelog": "^3.3.0",
     "cz-lerna-changelog": "^2.0.3",
@@ -40,10 +34,6 @@
     "lerna": "^3.22.1",
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1",
-    "semantic-release": "^17.3.0",
-    "semantic-release-monorepo": "^7.0.3",
-    "semantic-release-monorepo-hooks": "^2.9.7",
-    "semantic-release-plugin-decorators": "^3.0.0",
     "tsdx": "^0.14.1"
   },
   "lint-staged": {
@@ -54,7 +44,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-lerna-changelog"
+      "path": "cz-conventional-changelog"
     }
   },
   "repository": {
