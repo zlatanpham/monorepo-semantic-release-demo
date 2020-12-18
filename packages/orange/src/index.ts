@@ -15,3 +15,7 @@ export function log6() {
 export function log7() {
   console.log('log6');
 }
+
+export function log8() {
+  console.log('log6');
+}
