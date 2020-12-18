@@ -25,7 +25,3 @@ export function log(message: string) {
 export function log4(message: string) {
   console.log(message);
 }
-
-export function log5(message: string) {
-  console.log(message);
-}
