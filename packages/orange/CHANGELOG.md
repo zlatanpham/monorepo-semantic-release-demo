@@ -5,6 +5,32 @@
 
 ### Features
 
+* **apple:** add log7 ([#10](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/10)) ([064f6d4](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/064f6d4750a54c4a76d3e82f9872c0ce534c8a58))
+
+
+### BREAKING CHANGES
+
+* **apple:** ADD LOG7
+
+* chore(release): @tpham0/orange-v2.0.0 [skip ci]
+
+# [@tpham0/orange-v2.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v1.3.1...@tpham0/orange-v2.0.0) (2020-12-18)
+
+### Features
+
+* **apple:** add log7 ([83e3185](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/83e318505439c322a150ce3b117b66756ce37945))
+
+### BREAKING CHANGES
+
+* **apple:** ADD LOG7
+
+Co-authored-by: semantic-release-bot <semantic-release-bot@martynus.net>
+
+# [@tpham0/orange-v2.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v1.3.1...@tpham0/orange-v2.0.0) (2020-12-18)
+
+
+### Features
+
 * **apple:** add log7 ([83e3185](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/83e318505439c322a150ce3b117b66756ce37945))
 
 
