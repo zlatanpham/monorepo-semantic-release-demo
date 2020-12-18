@@ -5,6 +5,36 @@
 
 ### Bug Fixes
 
+* **apple:** remove log5 ([984e10b](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/984e10be28a60c1035a0ecaa3b5ead6a8ab3ae72))
+* **apple:** retain log 7 ([bfe42bd](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/bfe42bd720a6bb4572f2c23189bd9fdc8703c64c))
+* **apple:** retain log5 ([58cd65b](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/58cd65b3589fa59216872129fdcba30a582383e5))
+
+
+### Features
+
+* **apple:** add log 7 ([6b50eac](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6b50eacbae2a9d2b1758a0dc763f1554c97b01cc))
+* **apple:** add log 7 ([#6](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/6)) ([ee41e0c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ee41e0ca2afb16a27f86145f76e75d5cb14d702d))
+* **apple:** add log5() ([#4](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/4)) ([35f8b09](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/35f8b097dab7c3ed85075f4c763cbb4ec43b9b86)), closes [#6](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/6)
+* **apple:** simplify logs ([#8](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/8)) ([e80e4db](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/e80e4db7b7aeaf09ec4e2bbb58013efb34f102c4)), closes [#6](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/6) [#6](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/6)
+
+
+### BREAKING CHANGES
+
+* **apple:** Remove all deprecated log methods
+
+* chore(release): @tpham0/apple-v2.0.0 [skip ci]
+
+# [@tpham0/apple-v2.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.1...@tpham0/apple-v2.0.0) (2020-12-18)
+
+### Features
+
+* **apple:** add log 7 ([6b50eac](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6b50eacbae2a9d2b1758a0dc763f1554c97b01cc))
+
+# [@tpham0/apple-v2.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.1...@tpham0/apple-v2.0.0) (2020-12-18)
+
+
+### Bug Fixes
+
 * **apple:** retain log 7 ([bfe42bd](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/bfe42bd720a6bb4572f2c23189bd9fdc8703c64c))
 * **apple:** retain log5 ([58cd65b](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/58cd65b3589fa59216872129fdcba30a582383e5))
 
