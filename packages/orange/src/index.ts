@@ -8,10 +8,6 @@ export function sum(list: number[]) {
   return list.reduce((a, c) => add(a, c), 0);
 }
 
-export function log3(message: string) {
-  console.log(message);
-}
-
 export function log6() {
   console.log('log6');
 }
