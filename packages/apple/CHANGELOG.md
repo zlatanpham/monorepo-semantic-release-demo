@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/apple-v1.3.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.0...@tpham0/apple-v1.3.1) (2020-12-18)
+
+
+### Bug Fixes
+
+* **apple:** remove log2() ([ce8be03](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ce8be0385079073cd82b102c9729ff8319f6a15f))
+
 # [@tpham0/apple-v1.2.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.2.0...@tpham0/apple-v1.2.1) (2020-12-17)
 
 
