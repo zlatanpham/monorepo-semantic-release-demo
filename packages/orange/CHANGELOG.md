@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/orange-v2.1.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v2.0.0...@tpham0/orange-v2.1.0) (2020-12-18)
+
+
+### Features
+
+* **orange:** add log8 ([edf3171](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/edf3171a65b1c8ecaf0614ba487b301483c03f97))
+
 # [@tpham0/orange-v2.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v1.3.1...@tpham0/orange-v2.0.0) (2020-12-18)
 
 
