@@ -21,15 +21,3 @@ export function divide(a: number, b: number) {
 export function log(message: string) {
   console.log(message);
 }
-
-export function log4(message: string) {
-  console.log(message);
-}
-
-export function log7(message: string) {
-  console.log(message);
-}
-
-export function log5(message: string) {
-  console.log(message);
-}

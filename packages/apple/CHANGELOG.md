@@ -1,5 +1,20 @@
 # CHANGELOG
 
+# [@tpham0/apple-v2.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.1...@tpham0/apple-v2.0.0) (2020-12-18)
+
+
+### Features
+
+* **apple:** add log 7 ([6b50eac](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6b50eacbae2a9d2b1758a0dc763f1554c97b01cc))
+* **apple:** add log 7 ([#6](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/6)) ([ee41e0c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ee41e0ca2afb16a27f86145f76e75d5cb14d702d))
+* **apple:** add log5() ([#4](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/4)) ([35f8b09](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/35f8b097dab7c3ed85075f4c763cbb4ec43b9b86)), closes [#6](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/6)
+* **apple:** simplify logs ([cac9e32](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/cac9e32abc9855d153ef7299e0e45f1d0e5fc52c))
+
+
+### BREAKING CHANGES
+
+* **apple:** Remove all deprecated log methods
+
 # [@tpham0/apple-v1.4.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v1.3.1...@tpham0/apple-v1.4.0) (2020-12-18)
 
 
