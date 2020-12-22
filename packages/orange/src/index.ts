@@ -35,3 +35,7 @@ export function log21() {
 export function log221() {
   console.log('log1322');
 }
+
+export function log2s21() {
+  console.log('log1322');
+}
