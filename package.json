@@ -11,14 +11,11 @@
     "commit": "cz",
     "release:alpha": "lerna publish --canary --preid alpha",
     "release:next": "lerna publish --canary --preid next",
-    "release": "multi-semantic-release --execasync"
+    "release": "multi-semantic-release"
   },
   "workspaces": [
     "packages/*"
   ],
-  "resolutions": {
-    "multi-semantic-release/execa": "3.2.0"
-  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
