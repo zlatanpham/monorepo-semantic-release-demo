@@ -1,79 +1,88 @@
 # CHANGELOG
 
-# [@tpham0/apple-v3.0.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0...@tpham0/apple-v3.0.1) (2020-12-22)
+# [@tpham0/apple-v4.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v4.0.0-beta.1...@tpham0/apple-v4.0.0-beta.2) (2020-12-22)
 
 
 ### Performance Improvements
 
 * **apple:** improve perf ([aba8a80](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/aba8a80620148477a330b24b2952e4a6ff89ad64))
 
-# [@tpham0/apple-v3.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.2.0...@tpham0/apple-v3.0.0) (2020-12-22)
-
+# [@tpham0/apple-v4.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0...@tpham0/apple-v4.0.0-beta.1) (2020-12-22)
 
 ### Features
 
-* **apple:** add log11 ([#13](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/13)) ([bd8a30c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/bd8a30c1f10027c9df28952bb8e81edb8b11f3dc)), closes [#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14) [#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14) [#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14)
-
+- rewrite packages ([30a52f0](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/30a52f07d05b6a961e4ab251d081d7a611820f1a))
 
 ### BREAKING CHANGES
 
-* **apple:** Add log11
+- rewrite logic
 
-* feat(apple): add log12
+# [@tpham0/apple-v3.0.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0...@tpham0/apple-v3.0.1) (2020-12-22)
+
+### Performance Improvements
+
+- **apple:** improve perf ([aba8a80](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/aba8a80620148477a330b24b2952e4a6ff89ad64))
+
+# [@tpham0/apple-v3.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.2.0...@tpham0/apple-v3.0.0) (2020-12-22)
+
+### Features
+
+- **apple:** add log11 ([#13](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/13)) ([bd8a30c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/bd8a30c1f10027c9df28952bb8e81edb8b11f3dc)), closes [#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14) [#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14) [#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14)
+
+### BREAKING CHANGES
+
+- **apple:** Add log11
+
+- feat(apple): add log12
 
 affects: @tpham0/apple
 
-* chore(release): @tpham0/apple-v3.0.0-beta.1 [skip ci]
+- chore(release): @tpham0/apple-v3.0.0-beta.1 [skip ci]
 
 # [@tpham0/apple-v3.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.1.0...@tpham0/apple-v3.0.0-beta.1) (2020-12-22)
 
 ### Features
 
-* **apple:** add log11 ([6348e47](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6348e47a1830fb6075b6ed480238b73e8e3f5fae))
+- **apple:** add log11 ([6348e47](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6348e47a1830fb6075b6ed480238b73e8e3f5fae))
 
 ### BREAKING CHANGES
 
-* **apple:** Add log11
+- **apple:** Add log11
 
-* chore(release): @tpham0/apple-v3.0.0-beta.2 [skip ci]
+- chore(release): @tpham0/apple-v3.0.0-beta.2 [skip ci]
 
 # [@tpham0/apple-v3.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0-beta.1...@tpham0/apple-v3.0.0-beta.2) (2020-12-22)
 
 ### Features
 
-* **apple:** add log12 ([2c8d036](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/2c8d03611aad105773d970ce36dd6ef9fbd7dc17))
+- **apple:** add log12 ([2c8d036](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/2c8d03611aad105773d970ce36dd6ef9fbd7dc17))
 
 # [@tpham0/apple-v3.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.2.0...@tpham0/apple-v3.0.0-beta.1) (2020-12-22)
 
-
 ### Bug Fixes
 
-* **apple:** test fix beta2 ([#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14)) ([81bd47f](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/81bd47fd82ea6f563993c8a62a760d5d840e769e))
-
+- **apple:** test fix beta2 ([#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14)) ([81bd47f](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/81bd47fd82ea6f563993c8a62a760d5d840e769e))
 
 ### Features
 
-* **apple:** add log11 ([0495d9c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/0495d9c07f2246d0b82134219078f360d80200cc))
-* **apple:** add log12 ([1fafc2c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/1fafc2c7eeda25aee37bbbb90ca7280fb9593187))
-
+- **apple:** add log11 ([0495d9c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/0495d9c07f2246d0b82134219078f360d80200cc))
+- **apple:** add log12 ([1fafc2c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/1fafc2c7eeda25aee37bbbb90ca7280fb9593187))
 
 ### BREAKING CHANGES
 
-* **apple:** Add log11
+- **apple:** Add log11
 
 # [@tpham0/apple-v3.0.0-beta.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0-beta.2...@tpham0/apple-v3.0.0-beta.3) (2020-12-22)
 
-
 ### Bug Fixes
 
-* **apple:** test fix beta2 ([#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14)) ([e9ece41](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/e9ece41882bca55f00fc24b6dbcc2f06cd758d38))
+- **apple:** test fix beta2 ([#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14)) ([e9ece41](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/e9ece41882bca55f00fc24b6dbcc2f06cd758d38))
 
 # [@tpham0/apple-v3.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0-beta.1...@tpham0/apple-v3.0.0-beta.2) (2020-12-22)
 
-
 ### Features
 
-* **apple:** add log12 ([2c8d036](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/2c8d03611aad105773d970ce36dd6ef9fbd7dc17))
+- **apple:** add log12 ([2c8d036](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/2c8d03611aad105773d970ce36dd6ef9fbd7dc17))
 
 # [@tpham0/apple-v3.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.1.0...@tpham0/apple-v3.0.0-beta.1) (2020-12-22)
 

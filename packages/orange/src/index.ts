@@ -1,4 +1,4 @@
-import { printMe, add } from '@tpham0/apple';
+import { printMe, add, log5 } from '@tpham0/apple';
 
 export function callMe(message: string) {
   console.log(printMe(message));
@@ -18,4 +18,8 @@ export function log7() {
 
 export function log8() {
   console.log('log6');
+}
+
+export function log10() {
+  log5('log10');
 }
