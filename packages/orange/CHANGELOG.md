@@ -1,5 +1,20 @@
 # CHANGELOG
 
+# @tpham0/orange [1.7.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.6.0...@tpham0/orange@1.7.0) (2020-12-22)
+
+
+### Features
+
+* test ([7b337d7](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/7b337d73e5007040e997d0a7306df1b9bd7f74cc))
+
+
+
+
+
+### Dependencies
+
+* **@tpham0/apple:** upgraded to 5.1.0
+
 # @tpham0/orange [1.6.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.5.0...@tpham0/orange@1.6.0) (2020-12-22)
 
 
