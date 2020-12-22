@@ -37,5 +37,5 @@ export function log221() {
 }
 
 export function log2s21() {
-  console.log('log21322');
+  console.log('log213ss22');
 }
