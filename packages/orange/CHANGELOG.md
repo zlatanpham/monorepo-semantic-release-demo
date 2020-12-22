@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# @tpham0/orange [1.4.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.3.0...@tpham0/orange@1.4.0) (2020-12-22)
+
+
+### Features
+
+* sdfs ([05f5d37](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/05f5d37d7f960be30d62f5460e1eeb86fa5a024c))
+
 # @tpham0/orange [1.3.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.5...@tpham0/orange@1.3.0) (2020-12-22)
 
 
