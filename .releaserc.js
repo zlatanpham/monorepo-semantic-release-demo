@@ -8,7 +8,11 @@
  */
 
 module.exports = {
-  branches: ['+([0-9])?(.{+([0-9]),x}).x', 'master', 'next'],
+  branches: [
+    '+([0-9])?(.{+([0-9]),x}).x',
+    'master',
+    { name: 'beta', channel: 'beta', prerelease: 'beta' },
+  ],
   // tagFormat: 'v${version}',
   monorepo: {
     analyzeCommits: ['@semantic-release/commit-analyzer'],
