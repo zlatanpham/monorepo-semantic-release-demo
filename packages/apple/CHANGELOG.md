@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/apple-v3.0.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0...@tpham0/apple-v3.0.1) (2020-12-22)
+
+
+### Performance Improvements
+
+* **apple:** improve perf ([aba8a80](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/aba8a80620148477a330b24b2952e4a6ff89ad64))
+
 # [@tpham0/apple-v3.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.2.0...@tpham0/apple-v3.0.0) (2020-12-22)
 
 
