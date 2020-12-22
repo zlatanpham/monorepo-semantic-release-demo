@@ -29,5 +29,5 @@ export function log11() {
 }
 
 export function log21() {
-  log5('log130s');
+  log5('log1322');
 }
