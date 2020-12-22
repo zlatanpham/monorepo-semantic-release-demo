@@ -1,5 +1,17 @@
 # CHANGELOG
 
+# [@tpham0/apple-v4.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0...@tpham0/apple-v4.0.0-beta.1) (2020-12-22)
+
+
+### Features
+
+* rewrite packages ([30a52f0](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/30a52f07d05b6a961e4ab251d081d7a611820f1a))
+
+
+### BREAKING CHANGES
+
+* rewrite logic
+
 # [@tpham0/apple-v3.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.2.0...@tpham0/apple-v3.0.0) (2020-12-22)
 
 
