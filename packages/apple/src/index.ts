@@ -43,7 +43,7 @@ export function log11(message: string) {
 }
 
 export function log12(message: string) {
-  console.log(message + '12');
+  console.log(message + '15');
 }
 
 export function log13(message: string) {

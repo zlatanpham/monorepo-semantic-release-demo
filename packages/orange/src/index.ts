@@ -13,7 +13,7 @@ export function log6() {
 }
 
 export function log7() {
-  console.log('log6');
+  console.log('log64');
 }
 
 export function log8() {
