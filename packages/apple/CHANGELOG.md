@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/apple-v3.0.0-beta.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0-beta.2...@tpham0/apple-v3.0.0-beta.3) (2020-12-22)
+
+
+### Bug Fixes
+
+* **apple:** test fix beta2 ([#14](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/14)) ([e9ece41](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/e9ece41882bca55f00fc24b6dbcc2f06cd758d38))
+
 # [@tpham0/apple-v3.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0-beta.1...@tpham0/apple-v3.0.0-beta.2) (2020-12-22)
 
 
