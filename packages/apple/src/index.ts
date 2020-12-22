@@ -39,5 +39,5 @@ export function log11(message: string) {
 }
 
 export function log12(message: string) {
-  console.log(message);
+  console.log(message + '12');
 }
