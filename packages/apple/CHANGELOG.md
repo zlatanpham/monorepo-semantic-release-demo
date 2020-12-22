@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/apple-v2.2.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.1.0...@tpham0/apple-v2.2.0) (2020-12-22)
+
+
+### Features
+
+* **apple:** add log22 ([cf7fe72](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/cf7fe72659a7ea96389738166d49e26bb3aadcf6))
+
 # [@tpham0/apple-v2.1.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v2.0.1...@tpham0/apple-v2.1.0) (2020-12-18)
 
 
