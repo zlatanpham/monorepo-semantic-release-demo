@@ -1,3 +1,10 @@
+## @tpham0/orange [1.8.9](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.8...@tpham0/orange@1.8.9) (2020-12-22)
+
+
+### Bug Fixes
+
+* s ([356ca93](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/356ca937ce5ffebe4b95c3200eb23dec277fe3d7))
+
 ## @tpham0/orange [1.8.8](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.7...@tpham0/orange@1.8.8) (2020-12-22)
 
 
