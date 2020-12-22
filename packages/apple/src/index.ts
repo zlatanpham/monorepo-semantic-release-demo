@@ -51,5 +51,5 @@ export function log13(message: string) {
 }
 
 export function log213(message: string) {
-  console.log(message + '12');
+  console.log(message + '1222');
 }
