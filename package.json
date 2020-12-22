@@ -9,14 +9,16 @@
     "clean": "lerna clean",
     "build": "lerna run build",
     "commit": "cz",
-    "release": "lerna publish",
     "release:alpha": "lerna publish --canary --preid alpha",
     "release:next": "lerna publish --canary --preid next",
-    "semantic-release": "lerna exec --concurrency 1 \"npx --no-install semantic-release -e semantic-release-monorepo\""
+    "release": "multi-semantic-release --execasync"
   },
   "workspaces": [
     "packages/*"
   ],
+  "resolutions": {
+    "multi-semantic-release/execa": "3.2.0"
+  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
