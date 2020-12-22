@@ -1,5 +1,59 @@
 # CHANGELOG
 
+# [@tpham0/apple-v4.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.1...@tpham0/apple-v4.0.0) (2020-12-22)
+
+
+### Features
+
+* rewrite packages ([#15](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/15)) ([11fe04d](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/11fe04d3f05b6ea70e41593cff4662da8b7ac78c))
+
+
+### BREAKING CHANGES
+
+* rewrite logic
+
+* chore(release): @tpham0/apple-v4.0.0-beta.1 [skip ci]
+
+# [@tpham0/apple-v4.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v3.0.0...@tpham0/apple-v4.0.0-beta.1) (2020-12-22)
+
+### Features
+
+* rewrite packages ([30a52f0](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/30a52f07d05b6a961e4ab251d081d7a611820f1a))
+
+### BREAKING CHANGES
+
+* rewrite logic
+
+* chore(release): @tpham0/orange-v3.0.0-beta.1 [skip ci]
+
+# [@tpham0/orange-v3.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v2.1.0...@tpham0/orange-v3.0.0-beta.1) (2020-12-22)
+
+### Features
+
+* rewrite packages ([30a52f0](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/30a52f07d05b6a961e4ab251d081d7a611820f1a))
+
+### BREAKING CHANGES
+
+* rewrite logic
+
+* chore(release): @tpham0/apple-v4.0.0-beta.2 [skip ci]
+
+# [@tpham0/apple-v4.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v4.0.0-beta.1...@tpham0/apple-v4.0.0-beta.2) (2020-12-22)
+
+### Performance Improvements
+
+* **apple:** improve perf ([aba8a80](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/aba8a80620148477a330b24b2952e4a6ff89ad64))
+
+* chore(release): @tpham0/orange-v3.0.0-beta.2 [skip ci]
+
+# [@tpham0/orange-v3.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v3.0.0-beta.1...@tpham0/orange-v3.0.0-beta.2) (2020-12-22)
+
+### Bug Fixes
+
+* **orange:** fix test ([12e7e67](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/12e7e67a6cb0cea91e9f1ad4d6e1d6bc65fe3264))
+
+Co-authored-by: semantic-release-bot <semantic-release-bot@martynus.net>
+
 # [@tpham0/apple-v4.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple-v4.0.0-beta.1...@tpham0/apple-v4.0.0-beta.2) (2020-12-22)
 
 
