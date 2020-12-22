@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [@tpham0/orange-v3.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v3.0.0-beta.1...@tpham0/orange-v3.0.0-beta.2) (2020-12-22)
+
+
+### Bug Fixes
+
+* **orange:** fix test ([12e7e67](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/12e7e67a6cb0cea91e9f1ad4d6e1d6bc65fe3264))
+
 # [@tpham0/orange-v3.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange-v2.1.0...@tpham0/orange-v3.0.0-beta.1) (2020-12-22)
 
 ### Features
