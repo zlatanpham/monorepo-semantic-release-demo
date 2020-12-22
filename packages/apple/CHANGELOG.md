@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# @tpham0/apple [5.1.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.0.0...@tpham0/apple@5.1.0) (2020-12-22)
+
+
+### Features
+
+* test ([7a3ac8c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/7a3ac8cd3ceff81da394989b1ff126d9ebe1533d))
+
 # @tpham0/apple [1.1.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@1.0.0...@tpham0/apple@1.1.0) (2020-12-22)
 
 
