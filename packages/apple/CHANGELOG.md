@@ -1,3 +1,12 @@
+# CHANGELOG
+
+# @tpham0/apple [5.5.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.4.0...@tpham0/apple@5.5.0) (2020-12-22)
+
+
+### Features
+
+* **apple:** test ([640c1df](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/640c1df76a889e99597209296b18b034b7cf3bfc))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
