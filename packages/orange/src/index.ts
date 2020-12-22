@@ -31,3 +31,7 @@ export function log11() {
 export function log21() {
   log5('log1322');
 }
+
+export function log221() {
+  log5('log1322');
+}
