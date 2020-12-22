@@ -4,10 +4,6 @@
   "compilerOptions": {
     "allowJs": false,
     "baseUrl": ".",
-    "typeRoots": ["./node_modules/@types", "./types"],
-    "paths": {
-      "@tpham0/apple": ["packages/apple"],
-      "@tpham0/orange": ["packages/orange"]
-    }
+    "typeRoots": ["./node_modules/@types", "./types"]
   }
 }
