@@ -1,18 +1,22 @@
 # CHANGELOG
 
-## @tpham0/orange [1.2.4](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.3...@tpham0/orange@1.2.4) (2020-12-22)
-
+## @tpham0/orange [1.2.5](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.4...@tpham0/orange@1.2.5) (2020-12-22)
 
 ### Bug Fixes
 
-* **orange:** fix ([ba2976c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ba2976cb491924bc70ad70ff9427bf766547f02a))
+- **orange:** test ([8a7dcee](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/8a7dcee6b68e943158a012be5888fb644fd4b8e2))
+
+## @tpham0/orange [1.2.4](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.3...@tpham0/orange@1.2.4) (2020-12-22)
+
+### Bug Fixes
+
+- **orange:** fix ([ba2976c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ba2976cb491924bc70ad70ff9427bf766547f02a))
 
 ## @tpham0/orange [1.2.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.1...@tpham0/orange@1.2.2) (2020-12-22)
 
-
 ### Bug Fixes
 
-* **orange:** test ([174d6a9](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/174d6a9c141e144af251a6b4688cc9be9a172817))
+- **orange:** test ([174d6a9](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/174d6a9c141e144af251a6b4688cc9be9a172817))
 
 ## @tpham0/orange [1.2.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.0...@tpham0/orange@1.2.1) (2020-12-22)
 
