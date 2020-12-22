@@ -1,3 +1,10 @@
+## @tpham0/apple [5.6.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.0...@tpham0/apple@5.6.1) (2020-12-22)
+
+
+### Bug Fixes
+
+* **apple:** tes ([d43b261](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/d43b261567c2a2dc7fbd40310cca3c8bed9c627f))
+
 # @tpham0/apple [5.6.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.5.0...@tpham0/apple@5.6.0) (2020-12-22)
 
 
