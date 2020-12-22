@@ -2,7 +2,6 @@
  * Release configuration for the monorepo
  *
  * For more info;
- * - https://github.com/Updater/semantic-release-monorepo
  * - https://github.com/semantic-release/semantic-release
  * - https://github.com/lerna/lerna
  */
@@ -12,6 +11,7 @@ module.exports = {
     '+([0-9])?(.{+([0-9]),x}).x',
     'master',
     { name: 'beta', channel: 'beta', prerelease: 'beta' },
+    { name: 'alpha', channel: 'alpha', prerelease: 'alpha' },
   ],
   // tagFormat: 'v${version}',
   monorepo: {
@@ -21,7 +21,6 @@ module.exports = {
   /**
    * Move plugins from verifyConditions to verifyRelease to
    * reduce expensive network calls (50%+ runtime reduction).
-   * https://github.com/Updater/semantic-release-monorepo#reduce-expensive-network-calls-50-runtime-reduction
    */
   verifyConditions: [],
   verifyRelease: [
