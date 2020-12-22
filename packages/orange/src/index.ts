@@ -27,3 +27,7 @@ export function log10() {
 export function log11() {
   log5('log10');
 }
+
+export function log21() {
+  log5('log120');
+}
