@@ -41,3 +41,7 @@ export function log22(message: string) {
 export function log11(message: string) {
   console.log(message);
 }
+
+export function log12(message: string) {
+  console.log(message);
+}
