@@ -13,6 +13,24 @@ module.exports = {
     { name: 'beta', channel: 'beta', prerelease: 'beta' },
     { name: 'alpha', channel: 'alpha', prerelease: 'alpha' },
   ],
+  tagFormat: '-v${version}',
+  monorepo: {
+    analyzeCommits: ['@semantic-release/commit-analyzer'],
+    generateNotes: ['@semantic-release/release-notes-generator'],
+  },
+  /**
+   * Move plugins from verifyConditions to verifyRelease to
+   * reduce expensive network calls (50%+ runtime reduction).
+   */
+  verifyConditions: [],
+  verifyRelease: [
+    '@semantic-release/changelog',
+    '@semantic-release/npm',
+    '@semantic-release/git',
+    '@semantic-release/github',
+  ]
+    .map(require)
+    .map((x) => x.verifyConditions),
   prepare: [
     {
       path: '@semantic-release/changelog',
@@ -25,4 +43,14 @@ module.exports = {
         'chore(release): ${nextRelease.gitTag} [skip ci]\n\n${nextRelease.notes}',
     },
   ],
+  publish: [
+    // {
+    //   path: '@semantic-release/exec',
+    //   cmd: 'echo "Execute publish/deploy commands and scripts"'
+    // },
+    '@semantic-release/npm',
+    '@semantic-release/github',
+  ],
+  success: ['@semantic-release/github'],
+  fail: ['@semantic-release/github'],
 };
