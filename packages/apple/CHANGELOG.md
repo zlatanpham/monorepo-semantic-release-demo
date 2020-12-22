@@ -2,6 +2,13 @@
 
 # @tpham0/apple [5.2.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.1.0...@tpham0/apple@5.2.0) (2020-12-22)
 
+
+### Features
+
+* **apple:** test ([6eff526](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6eff5260f38767e1b96c56248f06474bfe210807))
+
+# @tpham0/apple [5.2.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.1.0...@tpham0/apple@5.2.0) (2020-12-22)
+
 ### Features
 
 - **apple:** test ([6eff526](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6eff5260f38767e1b96c56248f06474bfe210807))
