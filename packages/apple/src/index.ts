@@ -33,3 +33,7 @@ export function log10(message: string) {
 export function log5(message: string) {
   console.log(message);
 }
+
+export function log22(message: string) {
+  console.log(message);
+}
