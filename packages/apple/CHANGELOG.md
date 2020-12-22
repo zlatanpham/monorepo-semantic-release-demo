@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.4.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.1.0...@tpham0/apple@5.4.0) (2020-12-22)
+
+### Features
+
+- **apple:** test ([6eff526](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/6eff5260f38767e1b96c56248f06474bfe210807))
+
 # [5.3.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.1.0...@tpham0/apple@5.3.0) (2020-12-22)
 
 ### Features

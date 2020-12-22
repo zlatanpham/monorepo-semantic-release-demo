@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.0...@tpham0/orange@1.8.2) (2020-12-22)
+
+**Note:** Version bump only for package @tpham0/orange
+
 ## [1.8.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.0...@tpham0/orange@1.8.1) (2020-12-22)
 
 **Note:** Version bump only for package @tpham0/orange
