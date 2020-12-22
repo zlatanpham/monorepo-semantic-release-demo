@@ -1,63 +1,52 @@
 # CHANGELOG
 
-# @tpham0/orange [1.7.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.6.0...@tpham0/orange@1.7.0) (2020-12-22)
-
-
-### Features
-
-* test ([7b337d7](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/7b337d73e5007040e997d0a7306df1b9bd7f74cc))
-
-
-
-
+## @tpham0/orange [1.7.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.7.0...@tpham0/orange@1.7.1) (2020-12-22)
 
 ### Dependencies
 
-* **@tpham0/apple:** upgraded to 5.1.0
+- **@tpham0/apple:** upgraded to 5.2.0
+
+# @tpham0/orange [1.7.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.6.0...@tpham0/orange@1.7.0) (2020-12-22)
+
+### Features
+
+- test ([7b337d7](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/7b337d73e5007040e997d0a7306df1b9bd7f74cc))
+
+### Dependencies
+
+- **@tpham0/apple:** upgraded to 5.1.0
 
 # @tpham0/orange [1.6.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.5.0...@tpham0/orange@1.6.0) (2020-12-22)
 
-
 ### Features
 
-* test ([7a3ac8c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/7a3ac8cd3ceff81da394989b1ff126d9ebe1533d))
-
-
-
-
+- test ([7a3ac8c](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/7a3ac8cd3ceff81da394989b1ff126d9ebe1533d))
 
 ### Dependencies
 
-* **@tpham0/apple:** upgraded to 5.1.0
+- **@tpham0/apple:** upgraded to 5.1.0
 
 # @tpham0/orange [1.5.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.4.0...@tpham0/orange@1.5.0) (2020-12-22)
 
-
 ### Features
 
-* test multiple change ([828960e](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/828960ecac6e1249a9d5ac5881cd4c91a5dc5097))
-
-
-
-
+- test multiple change ([828960e](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/828960ecac6e1249a9d5ac5881cd4c91a5dc5097))
 
 ### Dependencies
 
-* **@tpham0/apple:** upgraded to 1.1.0
+- **@tpham0/apple:** upgraded to 1.1.0
 
 # @tpham0/orange [1.4.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.3.0...@tpham0/orange@1.4.0) (2020-12-22)
 
-
 ### Features
 
-* sdfs ([05f5d37](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/05f5d37d7f960be30d62f5460e1eeb86fa5a024c))
+- sdfs ([05f5d37](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/05f5d37d7f960be30d62f5460e1eeb86fa5a024c))
 
 # @tpham0/orange [1.3.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.5...@tpham0/orange@1.3.0) (2020-12-22)
 
-
 ### Features
 
-* **apple:** a ([1d09840](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/1d098404301e833f6c1e2f3f9e3f4c90e0a652bf))
+- **apple:** a ([1d09840](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/1d098404301e833f6c1e2f3f9e3f4c90e0a652bf))
 
 ## @tpham0/orange [1.2.5](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.2.4...@tpham0/orange@1.2.5) (2020-12-22)
 
