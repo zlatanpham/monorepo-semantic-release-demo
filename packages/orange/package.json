@@ -1,6 +1,6 @@
 {
   "name": "@tpham0/orange",
-  "version": "3.0.1",
+  "version": "3.1.0-beta.1",
   "description": "Orange package",
   "sideEffects": false,
   "repository": {
@@ -20,7 +20,7 @@
     "dist"
   ],
   "dependencies": {
-    "@tpham0/apple": "^7.0.1"
+    "@tpham0/apple": "7.1.0"
   },
   "publishConfig": {
     "access": "public"
