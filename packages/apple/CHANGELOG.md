@@ -1,3 +1,10 @@
+## @tpham0/apple [5.6.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.2...@tpham0/apple@5.6.3) (2020-12-23)
+
+
+### Bug Fixes
+
+* **apple:** test ([5264bad](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/5264badb8f8c67a73e6439f8af7c283d2dd5764d))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
