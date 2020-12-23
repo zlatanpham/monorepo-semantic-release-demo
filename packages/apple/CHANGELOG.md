@@ -1,3 +1,10 @@
+# @tpham0/apple [5.7.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.3...@tpham0/apple@5.7.0) (2020-12-23)
+
+
+### Features
+
+* hello ([1752719](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/17527196c6184fc0f7de668c04c206ccffd797fb))
+
 ## @tpham0/apple [5.6.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.2...@tpham0/apple@5.6.3) (2020-12-23)
 
 
