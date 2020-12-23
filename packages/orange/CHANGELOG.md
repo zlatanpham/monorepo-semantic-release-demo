@@ -1,3 +1,10 @@
+## @tpham0/orange [1.8.13](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.12...@tpham0/orange@1.8.13) (2020-12-23)
+
+
+### Bug Fixes
+
+* **orange:** add apple package ([1a92027](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/1a92027d8a6e520245dd012f96cd1f2b255f7710))
+
 ## @tpham0/orange [1.8.12](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.11...@tpham0/orange@1.8.12) (2020-12-23)
 
 
