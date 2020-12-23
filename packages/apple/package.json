@@ -1,6 +1,6 @@
 {
   "name": "@tpham0/apple",
-  "version": "5.7.0",
+  "version": "6.0.0-beta.1",
   "description": "apple package",
   "sideEffects": false,
   "repository": {
