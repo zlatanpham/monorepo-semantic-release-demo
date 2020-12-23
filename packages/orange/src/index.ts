@@ -25,7 +25,7 @@ export function log10() {
 }
 
 export function log11() {
-  console.log('log10');
+  console.log('hello world');
 }
 
 export function log21() {
