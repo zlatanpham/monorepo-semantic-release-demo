@@ -29,7 +29,7 @@ export function log11() {
 }
 
 export function log21() {
-  console.log('log21322');
+  console.log('log221322');
 }
 
 export function log221() {
