@@ -21,7 +21,7 @@ export function log8() {
 }
 
 export function log10() {
-  console.log('log10');
+  console.log('log102');
 }
 
 export function log11() {

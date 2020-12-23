@@ -44,5 +44,5 @@ export function log11(message: string) {
 }
 
 export function log213(message: string) {
-  console.log(message + '222212');
+  console.log(message + '2222112');
 }
