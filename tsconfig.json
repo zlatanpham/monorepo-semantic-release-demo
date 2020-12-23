@@ -6,8 +6,8 @@
     "baseUrl": ".",
     "typeRoots": ["./node_modules/@types", "./types"],
     "paths": {
-      "@tpham0/apple": ["./packages/apple/src/index"],
-      "@tpham0/orange": ["./packages/orange/src/index"]
+      "@tpham0/apple": ["./packages/apple"],
+      "@tpham0/orange": ["./packages/orange"]
     }
   }
 }

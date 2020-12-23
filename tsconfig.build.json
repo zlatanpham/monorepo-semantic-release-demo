@@ -15,6 +15,10 @@
     "lib": ["dom", "esnext"],
     "types": ["node"],
     "importHelpers": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+
+    "esModuleInterop": true,
+    "composite": true,
+    "incremental": true
   }
 }
