@@ -1,3 +1,10 @@
+# @tpham0/apple [7.1.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@7.0.1...@tpham0/apple@7.1.0-beta.1) (2020-12-23)
+
+
+### Features
+
+* test ([4159ac8](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/4159ac803afc1ce2a86105e838eba02d842091ea))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
