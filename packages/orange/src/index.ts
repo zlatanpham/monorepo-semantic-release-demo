@@ -1,9 +1,11 @@
+import { printMe, add } from '@tpham0/apple';
+
 export function callMe(message: string) {
-  // console.log(printMe(message));
+  console.log(printMe(message));
 }
 
 export function sum(list: number[]) {
-  // return list.reduce((a, c) => add(a, c), 0);
+  return list.reduce((a, c) => add(a, c), 0);
 }
 
 export function log6() {
