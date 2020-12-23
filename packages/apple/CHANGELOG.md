@@ -1,40 +1,47 @@
-# @tpham0/apple [6.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.7.0...@tpham0/apple@6.0.0-beta.1) (2020-12-23)
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [7.0.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.7.0...@tpham0/apple@7.0.0) (2020-12-23)
 
 
-### Features
-
-* upgrade version ([8864688](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/8864688f6896c26d818810c7900a33c3e9208480))
+* Beta (#16) ([a1e724e](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/a1e724e1a0c26eb86ffa825a23813f649e7e0404)), closes [#16](https://github.com/zlatanpham/monorepo-semantic-release-demo/issues/16)
 
 
 ### BREAKING CHANGES
 
 * test
 
-# @tpham0/apple [5.7.0](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.3...@tpham0/apple@5.7.0) (2020-12-23)
+* chore(release): 6.0.0-beta.1 [skip ci]
 
+# @tpham0/apple [6.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.7.0...@tpham0/apple@6.0.0-beta.1) (2020-12-23)
 
 ### Features
 
-* hello ([1752719](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/17527196c6184fc0f7de668c04c206ccffd797fb))
+* upgrade version ([8864688](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/8864688f6896c26d818810c7900a33c3e9208480))
 
-## @tpham0/apple [5.6.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.2...@tpham0/apple@5.6.3) (2020-12-23)
+### BREAKING CHANGES
+
+* test
+
+* chore(release): 2.0.0-beta.1 [skip ci]
+
+# [2.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.9.0...@tpham0/orange@2.0.0-beta.1) (2020-12-23)
+
+### Features
+
+* upgrade version ([8864688](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/8864688f6896c26d818810c7900a33c3e9208480))
+
+### BREAKING CHANGES
+
+* test
+
+Co-authored-by: semantic-release-bot <semantic-release-bot@martynus.net>
 
 
-### Bug Fixes
-
-* **apple:** test ([5264bad](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/5264badb8f8c67a73e6439f8af7c283d2dd5764d))
-
-## @tpham0/apple [5.6.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.2...@tpham0/apple@5.6.3) (2020-12-23)
 
 
-### Bug Fixes
-
-* **apple:** test ([5264bad](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/5264badb8f8c67a73e6439f8af7c283d2dd5764d))
-
-# Change Log
-
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 ## [5.6.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@5.6.1...@tpham0/apple@5.6.2) (2020-12-22)
 
