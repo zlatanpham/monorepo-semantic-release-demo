@@ -1,3 +1,10 @@
+## @tpham0/orange [1.8.12](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.11...@tpham0/orange@1.8.12) (2020-12-23)
+
+
+### Bug Fixes
+
+* **orange:** disable apple package ([ef10bcf](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/ef10bcfebbea0b287c13e66b5424229fa0142a5b))
+
 ## @tpham0/orange [1.8.11](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@1.8.10...@tpham0/orange@1.8.11) (2020-12-23)
 
 
