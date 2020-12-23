@@ -29,7 +29,6 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "@qiwi/multi-semantic-release": "^3.9.5",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
     "@semantic-release/exec": "^5.0.0",
@@ -61,5 +60,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/zlatanpham/monorepo-semantic-release-demo.git"
+  },
+  "dependencies": {
+    "multi-semantic-release": "^2.5.3"
   }
 }
