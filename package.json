@@ -11,7 +11,11 @@
     "commit": "cz",
     "release:alpha": "lerna publish --canary --preid alpha",
     "release:next": "lerna publish --canary --preid next",
-    "release": "multi-semantic-release"
+    "postupdate": "yarn && yarn bootstrap && yarn build",
+    "release": "multi-semantic-release --execasync"
+  },
+  "resolutions": {
+    "multi-semantic-release/execa": "3.2.0"
   },
   "workspaces": [
     "packages/*"
@@ -25,6 +29,7 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
+    "@qiwi/multi-semantic-release": "^3.9.5",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
     "@semantic-release/exec": "^5.0.0",
@@ -38,7 +43,6 @@
     "husky": "^4.3.6",
     "lerna": "^3.22.1",
     "lint-staged": "^10.5.3",
-    "multi-semantic-release": "^2.5.3",
     "prettier": "^2.2.1",
     "semantic-release": "^17.3.0",
     "tsdx": "^0.14.1"
