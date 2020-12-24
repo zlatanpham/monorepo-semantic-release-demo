@@ -9,7 +9,7 @@ export function sum(list: number[]) {
 }
 
 export function log6() {
-  console.log('log6');
+  console.log('log622');
 }
 
 export function log7() {
