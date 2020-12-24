@@ -1,3 +1,23 @@
+# @tpham0/orange [8.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@7.0.0...@tpham0/orange@8.0.0-beta.1) (2020-12-24)
+
+
+### Features
+
+* a ([1238ddd](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/1238ddd85298f506191c57f37f2056ffed49bd9f))
+
+
+### BREAKING CHANGES
+
+* s
+
+
+
+
+
+### Dependencies
+
+* **@tpham0/apple:** upgraded to 12.0.0-beta.1
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
