@@ -1,3 +1,24 @@
+# @tpham0/orange [4.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@3.0.1...@tpham0/orange@4.0.0-beta.1) (2020-12-24)
+
+
+### Features
+
+* test ([3531818](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/3531818c7d3d708fc9d3fdc795b2b51525d05d81))
+* test ([d551220](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/d5512202bfa38f35c9366ea4cf4de8b9b86472b9))
+
+
+### BREAKING CHANGES
+
+* test
+
+
+
+
+
+### Dependencies
+
+* **@tpham0/apple:** upgraded to 8.0.0-beta.1
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
