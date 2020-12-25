@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [13.0.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@13.0.0-beta.3...@tpham0/apple@13.0.1) (2020-12-25)
+
+**Note:** Version bump only for package @tpham0/apple
+
 # [13.0.0-beta.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@13.0.0-beta.2...@tpham0/apple@13.0.0-beta.3) (2020-12-25)
 
 ### Features
