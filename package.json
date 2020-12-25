@@ -12,7 +12,7 @@
     "release:alpha": "lerna publish --canary --preid alpha",
     "release:next": "lerna publish --canary --preid next",
     "postupdate": "yarn && yarn bootstrap && yarn build",
-    "release": "multi-semantic-release --execasync"
+    "release": "multi-semantic-release --execasync --DEBUG=msr:updateDeps"
   },
   "resolutions": {
     "multi-semantic-release/execa": "3.2.0"
