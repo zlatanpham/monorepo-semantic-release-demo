@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [9.0.0-beta.3](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@9.0.0-beta.2...@tpham0/orange@9.0.0-beta.3) (2020-12-25)
+
+### Features
+
+- s ([56ecd04](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/56ecd04679a9f85620066c259cad3a90b0441130))
+
 # [9.0.0-beta.2](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/orange@9.0.0-beta.1...@tpham0/orange@9.0.0-beta.2) (2020-12-25)
 
 **Note:** Version bump only for package @tpham0/orange
