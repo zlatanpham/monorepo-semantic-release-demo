@@ -8,22 +8,6 @@ export function sum(list: number[]) {
   return list.reduce((a, c) => add(a, c), 0);
 }
 
-export function log6() {
-  console.log('log622');
-}
-
-export function log7() {
-  console.log('log64');
-}
-
-export function log8() {
-  console.log('log2226');
-}
-
-export function log10() {
-  console.log('log10');
-}
-
 export function log11() {
   console.log('hello world');
 }
