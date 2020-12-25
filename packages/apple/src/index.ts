@@ -18,31 +18,6 @@ export function divide(a: number, b: number) {
   return a / b;
 }
 
-export function log(message: string) {
-  console.log(message);
-}
-
-export function log4(message: string) {
-  console.log(message);
-}
-
-export function log10(message: string) {
-  console.log(message);
-}
-
-export function log5(message: string) {
-  console.log(message);
-}
-
-export function log22(message: string) {
-  console.log(message);
-}
-
-export function log11(message: string) {
-  console.log(message);
-  console.log(message);
-}
-
 export function log213(message: string) {
-  console.log(message + '2s2s2122');
+  console.log(message + '2s2s212222');
 }

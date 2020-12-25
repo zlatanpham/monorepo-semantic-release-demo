@@ -1,3 +1,15 @@
+# @tpham0/apple [14.0.0-beta.1](https://github.com/zlatanpham/monorepo-semantic-release-demo/compare/@tpham0/apple@13.0.1...@tpham0/apple@14.0.0-beta.1) (2020-12-25)
+
+
+### Features
+
+* a ([4168391](https://github.com/zlatanpham/monorepo-semantic-release-demo/commit/4168391657a43ebfc2d9abbc8576d4900d4ee0f4))
+
+
+### BREAKING CHANGES
+
+* TEST
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
